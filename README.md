@@ -6,7 +6,7 @@
   
   <h3> Tecnologias<h3/>
     
- <div style="display : inline_block">
+
    
     <img align = "center" alt="react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    
@@ -20,5 +20,4 @@
    
     <img align = "center" alt="typesript" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   
-  
-  <div/>
+ 
