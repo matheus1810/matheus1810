@@ -1,8 +1,13 @@
+import React from "react";
+import { SlideBar } from "./components/SlideBar";
+
+
 function App() {
+
   return (
-    <div>
-     <h1>iniciandooo</h1>
-    </div>
+<div>
+  <SlideBar/>
+ </div>
   );
 }
 
